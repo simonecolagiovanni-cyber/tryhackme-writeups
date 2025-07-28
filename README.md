@@ -16,18 +16,6 @@ Ogni write-up documenta i comandi utilizzati, gli strumenti testati, le tecniche
 - 🔐 Hash cracking, JohnTheRipper, Hydra
 - 🧪 Scripts Bash, curl, netcat
 
-## 🧾 Struttura delle cartelle
-
-tryhackme-writeups/
-├── linux-fundamentals/
-│ ├── part1.md
-│ ├── part2.md
-├── advent-of-cyber-2024/
-│ ├── day01.md
-│ ├── day02.md
-├── owasp-top10/
-│ ├── task01.md
-
 ### 🔗 Altri link
 
 - 🌐 [Il mio profilo TryHackMe](https://tryhackme.com/p/simone.colagiovanni)
