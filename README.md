@@ -17,7 +17,6 @@ Ogni write-up documenta i comandi utilizzati, gli strumenti testati, le tecniche
 - 🧪 Scripts Bash, curl, netcat
 
 ## 🏅 Badge ottenuti
-![cat linux.txt](https://tryhackme.com/img/badges/linux.svg)
 
 ### 🔗 Altri link
 
