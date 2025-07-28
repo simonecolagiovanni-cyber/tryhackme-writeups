@@ -17,8 +17,7 @@ Ogni write-up documenta i comandi utilizzati, gli strumenti testati, le tecniche
 - 🧪 Scripts Bash, curl, netcat
 
 ## 🏅 Badge ottenuti
-![Jr Penetration Tester](https://tryhackme-badges.s3.amazonaws.com/username/path.png)
-![Advent of Cyber 2024](https://tryhackme-badges.s3.amazonaws.com/username/aoc2024.png)
+![cat linux.txt](https://tryhackme.com/img/badges/linux.svg)
 
 ### 🔗 Altri link
 
