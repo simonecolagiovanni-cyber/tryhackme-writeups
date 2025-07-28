@@ -16,6 +16,10 @@ Ogni write-up documenta i comandi utilizzati, gli strumenti testati, le tecniche
 - 🔐 Hash cracking, JohnTheRipper, Hydra
 - 🧪 Scripts Bash, curl, netcat
 
+## 🏅 Badge ottenuti
+![Jr Penetration Tester](https://tryhackme-badges.s3.amazonaws.com/username/path.png)
+![Advent of Cyber 2024](https://tryhackme-badges.s3.amazonaws.com/username/aoc2024.png)
+
 ### 🔗 Altri link
 
 - 🌐 [Il mio profilo TryHackMe](https://tryhackme.com/p/simone.colagiovanni)
