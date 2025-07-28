@@ -1,20 +1,32 @@
-## TryHackMe Write-ups 🛡️
+# 🧠 TryHackMe Free Room Write-ups
 
-Benvenuto! Questa repository contiene i miei report tecnici (write-up) dei percorsi e delle stanze completate su [TryHackMe](https://tryhackme.com/), come parte del mio percorso di crescita in cybersecurity.
+Benvenuto! Questa repository raccoglie i miei report per le **room gratuite** completate su [TryHackMe](https://tryhackme.com).  
+Ogni write-up documenta i comandi utilizzati, gli strumenti testati, le tecniche apprese e una riflessione finale.
 
-### ✅ Percorsi completati
+## 📚 Room Completate
 
-### 🗂 Struttura della repo
+| ✅ | Nome Room | Categoria | Stato |
+|----|-----------|-----------|--------|
+| ☑️ | Pre Security | Beginner | Completata |
 
-Ogni cartella contiene:
-- 📋 Obiettivi della stanza
-- 🔍 Tecniche utilizzate (recon, enum, exploit, privilege escalation)
-- 💻 Comandi utilizzati
-- 🚩 Soluzioni personali (senza spoiler diretti)
+## 🛠️ Tecnologie e strumenti utilizzati
 
-### 💡 Esempio di strumenti usati
+- 🖥️ Linux CLI, Nmap, Wireshark
+- 🕸️ Web enum (dirb, gobuster), LFI, SQLi
+- 🔐 Hash cracking, JohnTheRipper, Hydra
+- 🧪 Scripts Bash, curl, netcat
 
-**⚠️ Disclaimer:** I contenuti sono a scopo didattico e non contengono soluzioni ufficiali o flag dirette.
+## 🧾 Struttura delle cartelle
+
+tryhackme-writeups/
+├── linux-fundamentals/
+│ ├── part1.md
+│ ├── part2.md
+├── advent-of-cyber-2024/
+│ ├── day01.md
+│ ├── day02.md
+├── owasp-top10/
+│ ├── task01.md
 
 ### 🔗 Altri link
 
